@@ -1,0 +1,27 @@
+{
+  "name": "gulp-with-cache",
+  "version": "1.0.0",
+  "description": "Caching tasks",
+  "main": "index.js",
+  "author": "Simon Moiseenko <simon.moiseenko@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/stepler/gulp-with-cache",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stepler/gulp-with-cache.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "cache"
+  ],
+  "bugs": {
+    "url": "https://github.com/stepler/gulp-with-cache/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
